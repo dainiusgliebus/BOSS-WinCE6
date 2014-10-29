@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CSharpDWAPISample.2005">
+</Property><Property Name="Solution File" Value="C:\Users\dainius\Desktop\New folder\CSharpDWAPISample.2005.sln">
+</Property><Property Name="Date" Value="29 October 2014">
+</Property><Property Name="Time" Value="13:07">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CSharpDWAPISample.2005.sln" Description="File successfully backed up as C:\Users\dainius\Desktop\New folder\Backup\CSharpDWAPISample.2005.sln">
+</Event><Event ErrorLevel="0" Project="CSharpDWAPISample.2005" Source="CSharpDWAPISample.2005.csproj" Description="Project file successfully backed up as C:\Users\dainius\Desktop\New folder\Backup\CSharpDWAPISample.2005.csproj">
+</Event><Event ErrorLevel="0" Project="CSharpDWAPISample.2005" Source="CSharpDWAPISample.2005.csproj.user" Description="Project user file successfully backed up as C:\Users\dainius\Desktop\New folder\Backup\CSharpDWAPISample.2005.csproj.user">
+</Event><Event ErrorLevel="0" Project="CSharpDWAPISample.2005" Source="FormDWAPISample.cs" Description="File successfully backed up as C:\Users\dainius\Desktop\New folder\Backup\FormDWAPISample.cs">
+</Event><Event ErrorLevel="0" Project="CSharpDWAPISample.2005" Source="FormDWAPISample.Designer.cs" Description="File successfully backed up as C:\Users\dainius\Desktop\New folder\Backup\FormDWAPISample.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CSharpDWAPISample.2005" Source="ProgramDWAPISample.cs" Description="File successfully backed up as C:\Users\dainius\Desktop\New folder\Backup\ProgramDWAPISample.cs">
+</Event><Event ErrorLevel="0" Project="CSharpDWAPISample.2005" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\dainius\Desktop\New folder\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CSharpDWAPISample.2005" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\dainius\Desktop\New folder\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="1" Project="CSharpDWAPISample.2005" Source="..\..\..\Lib\DataWedgeAPI.tlb" Description="Backed up project may not build.  Project contains linked file: C:\Users\dainius\Desktop\New folder\Backup\DataWedgeAPI.tlb">
+</Event><Event ErrorLevel="2" Project="CSharpDWAPISample.2005" Source="..\..\..\Lib\DataWedgeAPI.tlb" Description="Failed to backup file as C:\Users\dainius\Desktop\New folder\Backup\DataWedgeAPI.tlb">
+</Event><Event ErrorLevel="0" Project="CSharpDWAPISample.2005" Source="FormDWAPISample.resx" Description="File successfully backed up as C:\Users\dainius\Desktop\New folder\Backup\FormDWAPISample.resx">
+</Event><Event ErrorLevel="0" Project="CSharpDWAPISample.2005" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\dainius\Desktop\New folder\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CSharpDWAPISample.2005" Source="CSharpDWAPISample.2005.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CSharpDWAPISample.2005" Source="CSharpDWAPISample.2005.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CSharpDWAPISample.2005.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CSharpDWAPISample.2005.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CSharpDWAPISample.2005" Source="FormDWAPISample.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="CSharpDWAPISample.2005" Source="FormDWAPISample.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CSharpDWAPISample.2005" Source="Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="CSharpDWAPISample.2005" Source="Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CSharpDWAPISample.2005" Source="CSharpDWAPISample.2005.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

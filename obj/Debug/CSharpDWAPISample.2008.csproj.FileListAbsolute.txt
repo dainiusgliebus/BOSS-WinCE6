@@ -1,0 +1,16 @@
+C:\Users\dainius\Desktop\New folder\bin\Debug\Interop.DataWedgeLib.dll
+C:\Users\dainius\Desktop\New folder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dainius\Desktop\New folder\obj\Debug\Interop.DataWedgeLib.dll
+C:\Users\dainius\Desktop\New folder\obj\Debug\CSharpDWAPISample.2008.csproj.ResolveComReference.cache
+C:\Users\dainius\Desktop\New folder\obj\Debug\CSharpDWAPISample.FormDWAPISample.resources
+C:\Users\dainius\Desktop\New folder\obj\Debug\CSharpDWAPISample.2008.csproj.GenerateResource.Cache
+C:\Users\dainius\Desktop\New folder\obj\Debug\DWAPI_BOSS.Properties.Resources.resources
+C:\Users\dainius\Desktop\New folder\bin\Debug\DWAPI_BOSS.exe
+C:\Users\dainius\Desktop\New folder\bin\Debug\DWAPI_BOSS.pdb
+C:\Users\dainius\Desktop\New folder\obj\Debug\DWAPI_BOSS.exe
+C:\Users\dainius\Desktop\New folder\obj\Debug\DWAPI_BOSS.pdb
+C:\Users\dainius\Desktop\New folder\bin\Debug\system.web.dll
+C:\Users\dainius\Desktop\New folder\bin\Debug\System.Data.OracleClient.dll
+C:\Users\dainius\Desktop\New folder\bin\Debug\System.EnterpriseServices.dll
+C:\Users\dainius\Desktop\New folder\bin\Debug\System.Transactions.dll
+C:\Users\dainius\Desktop\New folder\bin\Debug\System.EnterpriseServices.Wrapper.dll
